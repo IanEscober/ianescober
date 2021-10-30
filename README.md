@@ -1,11 +1,13 @@
 <div align="center">
-  <a href="https://ph.linkedin.com/in/ianescober"><img src="https://drive.google.com/uc?export=view&id=1XoAQebWpDVQiCnnxsFsHL1LYJslu2Gzr" alt="Knowledge Triangle"/></a>
+  <h1>Software Artisan</h1>
+  <em>Focused on the .NET ecosystem for the multi-platform and multi-cloud environments</em>
 </div>
 
-<br />
-
 <div align="center">
-  <a style="display: block;" href="https://ianescober.github.io/"><img width="20%" src="https://drive.google.com/uc?export=view&id=13iagomcspyBnDT29awizMYQHYc3XKddJ" alt="Dev Dump Logs"/></a>
-  <h1 style="color: #F9A826;">Dev Dump Logs</h1>
-  <em style="color: #F9A826;">Relevant. Depth. ...........Random</em>
+  <h2 style="color: #F9A826;">Knowledge Diagram</h2>
+  <a href="https://ph.linkedin.com/in/ianescober"><img height="50%" width="50%" src="https://drive.google.com/uc?export=view&id=1iMwdDBGROH9PCgyNNBZfWMys8HqABq97" alt="Knowledge Triangle"/></a>
+</div>
+<div align="center">
+  <h2 style="color: #F9A826;">Dump Logs</h2>
+  <a href="https://ianescober.github.io/"><img height="20%" width="20%" src="https://drive.google.com/uc?export=view&id=1AAOV0JWyXUyAkIYSyzvEopJG9xJtAqfD" alt="Dump Logs"/></a>
 </div>
